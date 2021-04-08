@@ -2,6 +2,15 @@
 
 ## 30 seconds of Python
 
+markdown里面的代码都已经整理出来，放在Code目录下：  
+代码大概分为六个部分(里面有些代码是相互包含的)：
+* [Date](code/Date)
+* [Dictionary](code/Dictionary)
+* [Function](code/Function)
+* [List](code/List)
+* [Math](code/Math)
+* [String](code/String)
+
 > Short Python code snippets for all your development needs
 
 * Visit [our website](https://30secondsofcode.org) to view our snippet collection.
