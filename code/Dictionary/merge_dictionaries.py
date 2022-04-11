@@ -9,9 +9,9 @@
 
 
 def merge_dictionaries(*dicts):
-    res = dict()
+    res = {}
     for d in dicts:
-        res.update(d)
+        res |= d
     return res
 
 

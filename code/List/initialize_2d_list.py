@@ -10,7 +10,7 @@
 
 
 def initialize_2d_list(w, h, val=None):
-    return [[val for x in range(w)] for y in range(h)]
+    return [[val for _ in range(w)] for _ in range(h)]
 
 
 # Examples

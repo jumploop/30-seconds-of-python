@@ -12,11 +12,14 @@ zip()和itertools.zip_longest()提供了与此代码片段类似的功能。
 
 
 def merge(*args, fill_value=None):
-    max_length = max([len(lst) for lst in args])
-    result = []
-    for i in range(max_length):
-        result.append([args[k][i] if i < len(args[k]) else fill_value for k in range(len(args))])
-    return result
+    max_length = max(len(lst) for lst in args)
+    return [
+        [
+            args[k][i] if i < len(args[k]) else fill_value
+            for k in range(len(args))
+        ]
+        for i in range(max_length)
+    ]
 
 
 # Examples

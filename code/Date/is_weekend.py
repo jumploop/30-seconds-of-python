@@ -11,7 +11,7 @@
 from datetime import datetime
 
 
-def is_weekend(d=datetime.today()):
+def is_weekend(d = datetime.now()):
     return d.weekday() > 4
 
 

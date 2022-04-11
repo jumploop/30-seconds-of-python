@@ -11,7 +11,7 @@
 from datetime import datetime, timedelta, date
 
 
-def add_days(n, d=datetime.today()):
+def add_days(n, d = datetime.now()):
     return d + timedelta(n)
 
 

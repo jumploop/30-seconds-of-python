@@ -9,7 +9,7 @@
 
 
 def map_values(obj, fn):
-    return dict((k, fn(v)) for k, v in obj.items())
+    return {k: fn(v) for k, v in obj.items()}
 
 
 # Examples
