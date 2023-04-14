@@ -17,7 +17,7 @@ def unfold(fn, seed):
             if val is False: break
             yield val[0]
 
-    return [i for i in fn_generator([None, seed])]
+    return list(fn_generator([None, seed]))
 
 
 # Examples
