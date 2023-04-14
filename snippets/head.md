@@ -1,6 +1,9 @@
 ---
-title: head
-tags: list,beginner
+title: List head
+tags: list
+cover: purple-laptop
+firstSeen: 2019-08-20T14:08:52+03:00
+lastUpdated: 2020-09-15T16:13:06+03:00
 ---
 
 Returns the head of a list.

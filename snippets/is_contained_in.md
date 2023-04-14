@@ -1,6 +1,9 @@
 ---
-title: is_contained_in
-tags: list,intermediate
+title: List is contained in other list
+tags: list
+cover: tropical-bike
+firstSeen: 2020-03-16T19:48:15+02:00
+lastUpdated: 2021-01-07T23:30:28+02:00
 ---
 
 Checks if the elements of the first list are contained in the second one regardless of order.

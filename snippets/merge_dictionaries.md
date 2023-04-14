@@ -1,6 +1,9 @@
 ---
-title: merge_dictionaries
-tags: dictionary,intermediate
+title: Merge dictionaries
+tags: dictionary
+cover: plant-candle
+firstSeen: 2020-04-16T19:28:35+03:00
+lastUpdated: 2020-11-02T19:28:27+02:00
 ---
 
 Merges two or more dictionaries.

@@ -1,6 +1,10 @@
 ---
-title: map_dictionary
-tags: list,dictionary,intermediate
+title: Map list to dictionary
+tags: list,dictionary
+excerpt: Maps the values of a list to a dictionary using a function.
+cover: colors-mural
+firstSeen: 2020-04-07T19:53:48+03:00
+lastUpdated: 2020-11-02T19:28:27+02:00
 ---
 
 Maps the values of a list to a dictionary using a function, where the key-value pairs consist of the original value as the key and the result of the function as the value.

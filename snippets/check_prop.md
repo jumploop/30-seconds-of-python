@@ -1,11 +1,14 @@
 ---
-title: check_prop
-tags: function,intermediate
+title: Check property
+tags: function
+cover: lake-trees
+firstSeen: 2020-01-02T16:49:25+02:00
+lastUpdated: 2020-11-02T19:27:07+02:00
 ---
 
-Creates a function that will invoke a predicate function for the specified property on a given object.
+Creates a function that will invoke a predicate function for the specified property on a given dictionary.
 
-- Return a `lambda` function that takes an object and applies the predicate function, `fn` to the specified property.
+- Return a `lambda` function that takes a dictionary and applies the predicate function, `fn` to the specified property.
 
 ```py
 def check_prop(fn, prop):

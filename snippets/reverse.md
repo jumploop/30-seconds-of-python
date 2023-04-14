@@ -1,6 +1,9 @@
 ---
-title: reverse
-tags: list,string,beginner
+title: Reverse list
+tags: list,string
+cover: industrial-tokyo
+firstSeen: 2020-10-06T19:02:30+03:00
+lastUpdated: 2020-11-02T19:28:27+02:00
 ---
 
 Reverses a list or a string.
@@ -13,6 +16,6 @@ def reverse(itr):
 ```
 
 ```py
-reverse([1, 2, 3]) # [3, 2, 1] 
-reverse('snippet') # 'teppins' 
+reverse([1, 2, 3]) # [3, 2, 1]
+reverse('snippet') # 'teppins'
 ```

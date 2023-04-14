@@ -1,11 +1,14 @@
 ---
-title: byte_size
-tags: string,beginner
+title: Byte size of string
+tags: string
+cover: river-house-lights
+firstSeen: 2018-02-01T10:19:59+02:00
+lastUpdated: 2020-11-02T19:27:07+02:00
 ---
 
 Returns the length of a string in bytes.
 
-- Use `str.encode('utf-8')` to encode the given string and return its length.
+- Use `str.encode()` to encode the given string and return its length.
 
 ```py
 def byte_size(s):

@@ -1,6 +1,9 @@
 ---
-title: includes_all
-tags: list,intermediate
+title: List includes all values
+tags: list
+cover: switzerland-night
+firstSeen: 2020-03-15T12:54:08+02:00
+lastUpdated: 2020-11-02T19:28:05+02:00
 ---
 
 Checks if all the elements in `values` are included in `lst`.

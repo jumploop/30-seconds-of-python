@@ -1,6 +1,9 @@
 ---
-title: kebab
-tags: string,regexp,intermediate
+title: Kebabcase string
+tags: string,regexp
+cover: mask-quiet
+firstSeen: 2019-08-21T08:59:54+03:00
+lastUpdated: 2020-11-02T19:28:05+02:00
 ---
 
 Converts a string to kebab case.

@@ -1,7 +1,10 @@
 ---
-title: km_to_miles
-tags: math,beginner
+title: Km to miles
+tags: math
 unlisted: true
+cover: interior-5
+firstSeen: 2020-10-04T00:23:49+03:00
+lastUpdated: 2021-01-04T12:47:04+02:00
 ---
 
 Converts kilometers to miles.

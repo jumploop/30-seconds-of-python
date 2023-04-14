@@ -1,6 +1,9 @@
 ---
-title: index_of_all
-tags: list,intermediate
+title: All indexes of value
+tags: list
+cover: purple-flower-bunch
+firstSeen: 2020-10-11T13:40:42+03:00
+lastUpdated: 2020-10-11T13:45:19+03:00
 ---
 
 Returns a list of indexes of all the occurrences of an element in a list.
@@ -14,5 +17,5 @@ def index_of_all(lst, value):
 
 ```py
 index_of_all([1, 2, 1, 4, 5, 1], 1) # [0, 2, 5]
-index_of_all([1, 2, 3, 4], 6) # [] 
+index_of_all([1, 2, 3, 4], 6) # []
 ```

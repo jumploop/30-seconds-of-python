@@ -1,6 +1,9 @@
 ---
-title: snake
-tags: string,regexp,intermediate
+title: Snakecase string
+tags: string,regexp
+cover: organizer
+firstSeen: 2019-08-21T08:59:54+03:00
+lastUpdated: 2020-11-02T19:28:35+02:00
 ---
 
 Converts a string to snake case.

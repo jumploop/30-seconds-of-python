@@ -1,7 +1,10 @@
 ---
-title: celsius_to_fahrenheit
-tags: math,beginner
+title: Celsius to Fahrenheit
+tags: math
 unlisted: true
+cover: last-light
+firstSeen: 2020-04-05T12:29:03+03:00
+lastUpdated: 2021-01-04T12:47:04+02:00
 ---
 
 Converts Celsius to Fahrenheit.

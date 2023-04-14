@@ -1,6 +1,9 @@
 ---
-title: dict_to_list
-tags: dictionary,list,intermediate
+title: Dictionary to list
+tags: dictionary,list
+cover: new-york
+firstSeen: 2020-10-16T21:24:14+03:00
+lastUpdated: 2020-11-02T19:27:53+02:00
 ---
 
 Converts a dictionary to a list of tuples.

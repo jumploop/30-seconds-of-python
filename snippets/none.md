@@ -1,6 +1,9 @@
 ---
-title: none
-tags: list,intermediate
+title: Test if every list element is falsy
+tags: list
+cover: jars-on-shelf-2
+firstSeen: 2019-08-20T15:54:50+03:00
+lastUpdated: 2020-11-02T19:28:27+02:00
 ---
 
 Checks if the provided function returns `True` for at least one element in the list.

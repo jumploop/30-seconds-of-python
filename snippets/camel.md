@@ -1,6 +1,9 @@
 ---
-title: camel
-tags: string,regexp,intermediate
+title: Camelcase string
+tags: string,regexp
+cover: digital-nomad-9
+firstSeen: 2019-08-21T08:59:54+03:00
+lastUpdated: 2020-11-02T19:27:07+02:00
 ---
 
 Converts a string to camelcase.

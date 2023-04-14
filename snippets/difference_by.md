@@ -1,6 +1,9 @@
 ---
-title: difference_by
-tags: list,function,intermediate
+title: List difference based on function
+tags: list,function
+cover: coconuts
+firstSeen: 2018-02-08T15:59:27+02:00
+lastUpdated: 2020-11-02T19:27:53+02:00
 ---
 
 Returns the difference between two lists, after applying the provided function to each list element of both.

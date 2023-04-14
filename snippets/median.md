@@ -1,6 +1,9 @@
 ---
-title: median
-tags: math,beginner
+title: Median
+tags: math
+cover: little-bird
+firstSeen: 2019-10-03T12:02:17+03:00
+lastUpdated: 2020-11-02T19:28:27+02:00
 ---
 
 Finds the median of a list of numbers.

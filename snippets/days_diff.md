@@ -1,6 +1,9 @@
 ---
-title: days_diff
-tags: date,beginner
+title: Date difference in days
+tags: date
+cover: succulent-9
+firstSeen: 2020-10-28T16:19:39+02:00
+lastUpdated: 2020-10-28T16:19:39+02:00
 ---
 
 Calculates the day difference between two dates.

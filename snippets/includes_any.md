@@ -1,6 +1,9 @@
 ---
-title: includes_any
-tags: list,intermediate
+title: List includes any values
+tags: list
+cover: forest-balcony
+firstSeen: 2020-03-15T12:54:08+02:00
+lastUpdated: 2020-11-02T19:28:05+02:00
 ---
 
 Checks if any element in `values` is included in `lst`.

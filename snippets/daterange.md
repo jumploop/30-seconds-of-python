@@ -1,13 +1,16 @@
 ---
-title: daterange
-tags: date,intermediate
+title: Date range
+tags: date
+cover: maple-leaf-palette
+firstSeen: 2020-10-28T16:19:14+02:00
+lastUpdated: 2021-01-07T23:30:28+02:00
 ---
 
 Creates a list of dates between `start` (inclusive) and `end` (not inclusive).
 
 - Use  `datetime.timedelta.days` to get the days between `start` and `end`.
 - Use `int()` to convert the result to an integer and `range()` to iterate over each day.
-- Use a list comprehension and `datetime.timedelta()` to create a list of `datetime.date` objects.
+- Use a list comprehension and `datetime.timedelta` to create a list of `datetime.date` objects.
 
 ```py
 from datetime import timedelta, date

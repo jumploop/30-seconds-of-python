@@ -1,6 +1,9 @@
 ---
-title: palindrome
-tags: string,intermediate
+title: Palindrome
+tags: string
+cover: succulent-6
+firstSeen: 2018-02-01T10:19:59+02:00
+lastUpdated: 2020-11-02T19:28:27+02:00
 ---
 
 Checks if the given string is a palindrome.

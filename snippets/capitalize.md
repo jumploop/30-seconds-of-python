@@ -1,6 +1,9 @@
 ---
-title: capitalize
-tags: string,intermediate
+title: Capitalize string
+tags: string
+cover: palm-tree-house
+firstSeen: 2018-02-01T10:19:59+02:00
+lastUpdated: 2020-11-02T19:27:07+02:00
 ---
 
 Capitalizes the first letter of a string.

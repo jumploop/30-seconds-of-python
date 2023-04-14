@@ -1,6 +1,9 @@
 ---
-title: union_by
-tags: list,intermediate
+title: List union based on function
+tags: list
+cover: sunrise-over-city
+firstSeen: 2019-08-21T09:10:39+03:00
+lastUpdated: 2020-11-02T19:28:35+02:00
 ---
 
 Returns every element that exists in any of the two lists once, after applying the provided function to each element of both.

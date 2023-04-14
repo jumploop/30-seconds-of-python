@@ -1,6 +1,9 @@
 ---
-title: key_of_max
-tags: dictionary,beginner
+title: Key of max value
+tags: dictionary
+cover: succulent-7
+firstSeen: 2021-01-07T23:15:48+02:00
+lastUpdated: 2021-01-07T23:15:48+02:00
 ---
 
 Finds the key of the maximum value in a dictionary.

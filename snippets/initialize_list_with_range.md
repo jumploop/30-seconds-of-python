@@ -1,6 +1,9 @@
 ---
-title: initialize_list_with_range
-tags: list,beginner
+title: Initialize list with range
+tags: list
+cover: succulent-3
+firstSeen: 2019-08-20T15:21:41+03:00
+lastUpdated: 2020-11-02T19:28:05+02:00
 ---
 
 Initializes a list containing the numbers in the specified range where `start` and `end` are inclusive with their common difference `step`.
